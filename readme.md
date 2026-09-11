@@ -1,0 +1,1 @@
+In nestloop.java advance pattern left to do in which there are multiple loop in a single loop
